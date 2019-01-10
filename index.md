@@ -21,8 +21,8 @@ Eco is intended to be a rover for multidisciplinary future projects in the class
 |:--------------|:----------------------|:---------|:-----------|
 | 1             | Components Definition | 10/2018  | Terminated |
 | 2             | Fabrication           | 11/2018  | Terminated |
-| 3             | Motor Setup           | 01/2019  | work in progress    |
-| 4             | Assembly              | 01/2019  | work in progress    |
+| 3             | Motor Setup           | 01/2019  | Work in progress    |
+| 4             | Assembly              | 01/2019  | Work in progress    |
 | 5             | Test I - indoors      | --/2019  | Inactive   |
 | 6             | Test II - outdoors    | --/2019  | Inactive   |
 | 7             | Release               | --/2019  | Inactive   |
@@ -49,4 +49,10 @@ Eco is intended to be a rover for multidisciplinary future projects in the class
 
 ## Components
 
+* * *
 
+# Members
+
+* [Carlos Rodríguez Hernández](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-48064063/)
+
+* [Francisco Javier Rodriguez Lera](http://robotica.unileon.es/lera/)
