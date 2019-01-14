@@ -35,11 +35,11 @@ Eco is intended to be a rover for multidisciplinary future projects in the class
 
 [Link to another page](./hardware.html).
 
-![Step 1](https://github.com/ecotrv-unileon/ecotrv-unileon.github.io/blob/master/assets/images/1wm.png)
+![Step 1](https://raw.githubusercontent.com/ecotrv-unileon/ecotrv-unileon.github.io/master/assets/images/1wm.png)
 
-![Step 2](https://github.com/ecotrv-unileon/ecotrv-unileon.github.io/blob/master/assets/images/2wm.png)
+![Step 2](https://raw.githubusercontent.com/ecotrv-unileon/ecotrv-unileon.github.io/master/assets/images/2wm.png)
 
-![Step 3](https://github.com/ecotrv-unileon/ecotrv-unileon.github.io/blob/master/assets/images/4wm.png)
+![Step 3](https://raw.githubusercontent.com/ecotrv-unileon/ecotrv-unileon.github.io/master/assets/images/3wm.png)
 
 
 ## Tools
