@@ -13,7 +13,10 @@ ECO and Sawppy, reproduce the Rocker-Bogie suspension kinematics of real rovers
 ECO is intended to be a rover for multidisciplinary future projects in the classroom seeking to do autonomous rovers for exploration and prospection of other planets/asteroids/satellites. 
 
 
-[![ECO Test 1](http://img.youtube.com/vi/qS9-J2hv6ew/100.jpg)](https://youtu.be/qS9-J2hv6ew)
+
+#### Outdoor tests
+
+[![ECO Test 1](https://raw.githubusercontent.com/ecotrv-unileon/ecotrv-unileon.github.io/master/assets/images/RoverTest2.jpg)](https://youtu.be/qS9-J2hv6ew)
 
 
 # Roadmap
