@@ -5,14 +5,15 @@ layout: default
 
 # Description
 
-Eco the Rover is a motorized mobile agent based on [Sawppy the Rover](https://hackaday.io/project/158208-sawppy-the-rover). 
-Eco has been adapted to be built with components available in Europe. 
-The current layout of Eco and proportion imitates other rovers shape such as Mars Rover Curiosity and Mars 2020 do. Both, 
-Eco and Sawppy, reproduce the Rocker-Bogie suspension kinematics of real rovers
+ECO the Rover is a motorized mobile agent based on [Sawppy the Rover](https://hackaday.io/project/158208-sawppy-the-rover). 
+ECO has been adapted to be built with components available in Europe. 
+The current layout of ECO and proportion imitates other rovers shape such as Mars Rover Curiosity and Mars 2020 do. Both, 
+ECO and Sawppy, reproduce the Rocker-Bogie suspension kinematics of real rovers
 
-Eco is intended to be a rover for multidisciplinary future projects in the classroom seeking to do autonomous rovers for exploration and prospection of other planets/asteroids/satellites. 
+ECO is intended to be a rover for multidisciplinary future projects in the classroom seeking to do autonomous rovers for exploration and prospection of other planets/asteroids/satellites. 
 
 
+[![ECO Test 1](http://img.youtube.com/vi/qS9-J2hv6ew/0.jpg)](https://youtu.be/qS9-J2hv6ew)
 
 
 # Roadmap
@@ -21,10 +22,10 @@ Eco is intended to be a rover for multidisciplinary future projects in the class
 |:--------------|:----------------------|:---------|:-----------|
 | 1             | Components Definition | 10/2018  | Terminated |
 | 2             | Fabrication           | 11/2018  | Terminated |
-| 3             | Motor Setup           | 01/2019  | Work in progress    |
+| 3             | Motor Setup           | 01/2019  | Terminated    |
 | 4             | Assembly              | 01/2019  | Work in progress    |
-| 5             | Test I - indoors      | --/2019  | Inactive   |
-| 6             | Test II - outdoors    | --/2019  | Inactive   |
+| 5             | Test I - indoors      | --/2019  | Work in progress   |
+| 6             | Test II - outdoors    | --/2019  | Work in progress   |
 | 7             | Release               | --/2019  | Inactive   |
 | 8             |                       | --/2019  | Inactive   |
 
